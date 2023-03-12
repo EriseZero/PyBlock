@@ -14,10 +14,8 @@ setup(
     long_description="Tool to analyze block in minecraft maps.",
     include_package_data=True,
     install_requires=[
-        'click',
         'nbt',
         'frozendict',
-        'webcolors',
         'pillow',
         'numpy'
     ],
